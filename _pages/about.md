@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hi There!
 
-I am Dharanish Kedarisetti, I live in Boston and do `Machine learning` and `Perception`. I work at [Motorola Solutions](https://www.motorolasolutions.com/) where I work on smart cameras. I have interests in `Machine Learning, Climbing and Meditation` 
+I am **Dharanish Kedarisetti**, I live in Boston and do **Machine learning** and **Perception**. I work at [Motorola Solutions](https://www.motorolasolutions.com/) where I work on smart cameras. I have interests in **Machine Learning**, **Climbing** and **Meditation** 
 
 
 ## Patents:
